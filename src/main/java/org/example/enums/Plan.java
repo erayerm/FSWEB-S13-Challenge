@@ -15,4 +15,5 @@ public enum Plan{
     public int getPrice() {
         return price;
     }
+
 };
